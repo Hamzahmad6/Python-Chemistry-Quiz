@@ -23,8 +23,3 @@ Test your chemistry knowledge with **10 shuffled questions**, navigate between p
 - Friendly graphical interface using Tkinter
 
 ---
-
-## ▶️ How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/hamzahmad6/ChemistryQuiz.git
