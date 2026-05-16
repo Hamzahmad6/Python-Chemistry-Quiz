@@ -1,0 +1,8 @@
+Date: 2026-05-16 17:32:00.428177
+Name: Hamza Ahmed
+Age: 20
+Student ID: 241332
+Score: 2/15
+Percentage: 13.3%
+Grade: Fail
+----------------------------------------
