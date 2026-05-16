@@ -44,12 +44,6 @@ It includes **student login, timed quiz, navigation system, auto-scoring, and re
 
 ---
 
-## 📁 Project Structure
-main.py # Core application (Tkinter GUI)
-results.txt # Automatically generated exam results file
-
----
-
 ## 📊 Grading System
 
 | Percentage | Grade       |
@@ -82,7 +76,4 @@ results.txt # Automatically generated exam results file
 ---
 
 ## 👨‍💻 Author
-
-Developed as a **Python GUI project using Tkinter** for learning and practice in building real-world desktop applications.
-
-## 📁 Project Structure
+Hamza Ahmed
